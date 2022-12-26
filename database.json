@@ -4,7 +4,7 @@
     "downloadUrl": "https://github.com/ow-mods/ow-mod-manager/releases/download/v1.17.0/OuterWildsModManager-Portable.zip",
     "zipDownloadUrl": "https://github.com/ow-mods/ow-mod-manager/releases/download/v1.17.0/OuterWildsModManager-Portable.zip",
     "installerDownloadUrl": "https://github.com/ow-mods/ow-mod-manager/releases/download/v1.17.0/OuterWildsModManager-Installer.exe",
-    "downloadCount": 98665
+    "downloadCount": 98672
   },
   "releases": [
     {
@@ -15,7 +15,7 @@
       "required": true,
       "utility": true,
       "downloadUrl": "https://github.com/ow-mods/owml/releases/download/2.9.0/OWML.zip",
-      "downloadCount": 80134,
+      "downloadCount": 80147,
       "latestReleaseDate": "2022-12-26T18:37:54Z",
       "firstReleaseDate": "2019-12-18T16:07:26Z",
       "repo": "https://github.com/amazingalek/owml",
@@ -29,7 +29,7 @@
         "library"
       ],
       "slug": "owml",
-      "viewCount": 722,
+      "viewCount": 0,
       "installCount": 0
     },
     {
@@ -58,8 +58,8 @@
         "integration"
       ],
       "slug": "nomaivr",
-      "viewCount": 1790,
-      "installCount": 1005
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Quantum Space Buddies",
@@ -67,7 +67,7 @@
       "description": "Outer Wilds online multiplayer mod, using Mirror and OWML.",
       "author": "misternebula",
       "downloadUrl": "https://github.com/misternebula/quantum-space-buddies/releases/download/0.23.0/QSB.zip",
-      "downloadCount": 21584,
+      "downloadCount": 21586,
       "latestReleaseDate": "2022-12-03T11:26:54Z",
       "firstReleaseDate": "2020-03-01T18:04:22Z",
       "repo": "https://github.com/misternebula/quantum-space-buddies",
@@ -86,8 +86,8 @@
         "integration"
       ],
       "slug": "quantumspacebuddies",
-      "viewCount": 1879,
-      "installCount": 762
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Light Bramble",
@@ -108,8 +108,8 @@
         "audiovisual"
       ],
       "slug": "lightbramble",
-      "viewCount": 1004,
-      "installCount": 224
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "FreeCam",
@@ -130,8 +130,8 @@
         "tool"
       ],
       "slug": "freecam",
-      "viewCount": 99,
-      "installCount": 99
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Crouch Mod",
@@ -152,8 +152,8 @@
         "gameplay"
       ],
       "slug": "crouchmod",
-      "viewCount": 8,
-      "installCount": 39
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Clock",
@@ -161,7 +161,7 @@
       "description": "A clock overlay mod for Outer Wilds, including events",
       "author": "clubby789",
       "downloadUrl": "https://github.com/clubby789/OWClock/releases/download/0.7.0/release.zip",
-      "downloadCount": 8395,
+      "downloadCount": 8396,
       "latestReleaseDate": "2022-03-23T11:03:42Z",
       "firstReleaseDate": "2020-09-20T09:43:23Z",
       "repo": "https://github.com/clubby789/OWClock",
@@ -179,8 +179,8 @@
         "tool"
       ],
       "slug": "clock",
-      "viewCount": 111,
-      "installCount": 222
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "HD Screenshot",
@@ -201,8 +201,8 @@
         "tool"
       ],
       "slug": "hdscreenshot",
-      "viewCount": 8,
-      "installCount": 18
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Menu Framework",
@@ -211,7 +211,7 @@
       "author": "misternebula",
       "utility": true,
       "downloadUrl": "https://github.com/misternebula/MenuFramework/releases/download/3.0.0/MenuFramework.zip",
-      "downloadCount": 13609,
+      "downloadCount": 13611,
       "latestReleaseDate": "2022-05-04T09:32:40Z",
       "firstReleaseDate": "2021-08-27T12:37:18Z",
       "repo": "https://github.com/misternebula/MenuFramework",
@@ -224,8 +224,8 @@
         "library"
       ],
       "slug": "menuframework",
-      "viewCount": 138,
-      "installCount": 186
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "ScoutStreaming",
@@ -246,8 +246,8 @@
         "gameplay"
       ],
       "slug": "scoutstreaming",
-      "viewCount": 47,
-      "installCount": 138
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Vesper's Assorted OuterWilds Shaders",
@@ -268,8 +268,8 @@
         "audiovisual"
       ],
       "slug": "vespersassortedouterwildsshaders",
-      "viewCount": 29,
-      "installCount": 28
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Outer Wilds Online",
@@ -295,8 +295,8 @@
         "gameplay"
       ],
       "slug": "outerwildsonline",
-      "viewCount": 209,
-      "installCount": 162
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Cheat and Debug Menu",
@@ -304,7 +304,7 @@
       "description": "Allows using some commands from Debug Mode and adds other functions as well.",
       "author": "glitchewski",
       "downloadUrl": "https://github.com/glitchewski/OWML.Glitch.CheatAndDebugMenu/releases/download/0.5.3/Glitch.CheatAndDebugMenu.zip",
-      "downloadCount": 2838,
+      "downloadCount": 2839,
       "latestReleaseDate": "2021-10-25T06:38:12Z",
       "firstReleaseDate": "2021-10-12T21:02:20Z",
       "repo": "https://github.com/glitchewski/OWML.Glitch.CheatAndDebugMenu",
@@ -317,8 +317,8 @@
         "tool"
       ],
       "slug": "cheatanddebugmenu",
-      "viewCount": 151,
-      "installCount": 85
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Cheats Mod",
@@ -326,7 +326,7 @@
       "description": "Togglable features and teleportation",
       "author": "PacificEngine",
       "downloadUrl": "https://github.com/PacificEngine/OW_CheatsMod/releases/download/0.7.4/PacificEngine.OW_CheatsMod.zip",
-      "downloadCount": 7327,
+      "downloadCount": 7329,
       "latestReleaseDate": "2022-01-25T00:19:05Z",
       "firstReleaseDate": "2021-10-21T06:56:51Z",
       "repo": "https://github.com/PacificEngine/OW_CheatsMod",
@@ -339,8 +339,8 @@
         "tool"
       ],
       "slug": "cheatsmod",
-      "viewCount": 310,
-      "installCount": 296
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Difficulty Mod",
@@ -361,8 +361,8 @@
         "gameplay"
       ],
       "slug": "difficultymod",
-      "viewCount": 20,
-      "installCount": 19
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Peaceful Ghosts",
@@ -383,8 +383,8 @@
         "gameplay"
       ],
       "slug": "peacefulghosts",
-      "viewCount": 39,
-      "installCount": 63
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "SlowTime",
@@ -392,7 +392,7 @@
       "description": "Slows time-based events over 1 hour in the game to give you more time to explore!",
       "author": "dwatson251",
       "downloadUrl": "https://github.com/dwatson251/ow-slowtime/releases/download/v0.1.0/dnlwtsn.SlowTime.zip",
-      "downloadCount": 2024,
+      "downloadCount": 2025,
       "latestReleaseDate": "2021-10-27T19:40:41Z",
       "firstReleaseDate": "2021-10-27T19:40:41Z",
       "repo": "https://github.com/dwatson251/ow-slowtime",
@@ -405,8 +405,8 @@
         "gameplay"
       ],
       "slug": "slowtime",
-      "viewCount": 41,
-      "installCount": 73
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "OW Smooth Thrust",
@@ -427,8 +427,8 @@
         "gameplay"
       ],
       "slug": "owsmooththrust",
-      "viewCount": 18,
-      "installCount": 38
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Randomizer",
@@ -449,8 +449,8 @@
         "gameplay"
       ],
       "slug": "randomizer",
-      "viewCount": 83,
-      "installCount": 70
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "PacificEngine's Common Resources",
@@ -459,7 +459,7 @@
       "author": "dgarroDC",
       "utility": true,
       "downloadUrl": "https://github.com/dgarroDC/OW_CommonResources/releases/download/0.5.15/PacificEngine.OW_CommonResources.zip",
-      "downloadCount": 1871,
+      "downloadCount": 1873,
       "latestReleaseDate": "2022-09-29T17:14:07Z",
       "firstReleaseDate": "2022-09-29T17:14:07Z",
       "repo": "https://github.com/dgarroDC/OW_CommonResources",
@@ -473,8 +473,8 @@
         "library"
       ],
       "slug": "pacificenginescommonresources",
-      "viewCount": 24,
-      "installCount": 34
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "No Alt Tab Pause",
@@ -495,8 +495,8 @@
         "tweaks"
       ],
       "slug": "noalttabpause",
-      "viewCount": 7,
-      "installCount": 36
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Echoes of the Caribbean",
@@ -517,8 +517,8 @@
         "audiovisual"
       ],
       "slug": "echoesofthecaribbean",
-      "viewCount": 14,
-      "installCount": 7
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Third Person Camera",
@@ -539,8 +539,8 @@
         "gameplay"
       ],
       "slug": "thirdpersoncamera",
-      "viewCount": 142,
-      "installCount": 72
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "NomaiVR Online Patches",
@@ -562,8 +562,8 @@
         "tweaks"
       ],
       "slug": "nomaivronlinepatches",
-      "viewCount": 17,
-      "installCount": 189
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "NomaiVR FFR",
@@ -572,7 +572,7 @@
       "author": "artumino",
       "parent": "Raicuparta.NomaiVR",
       "downloadUrl": "https://github.com/artumino/NomaiVR-FixedFoveatedRendering/releases/download/1.0.4/Artum.NomaiVRFoveated.zip",
-      "downloadCount": 7417,
+      "downloadCount": 7418,
       "latestReleaseDate": "2022-04-21T21:50:28Z",
       "firstReleaseDate": "2021-11-25T22:50:49Z",
       "repo": "https://github.com/artumino/NomaiVR-FixedFoveatedRendering",
@@ -581,8 +581,8 @@
         "gameplay"
       ],
       "slug": "nomaivrffr",
-      "viewCount": 120,
-      "installCount": 399
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Static Camera",
@@ -603,8 +603,8 @@
         "tool"
       ],
       "slug": "staticcamera",
-      "viewCount": 11,
-      "installCount": 16
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Daydream",
@@ -626,8 +626,8 @@
         "audiovisual"
       ],
       "slug": "daydream",
-      "viewCount": 46,
-      "installCount": 58
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "EotE Brighter Dreams",
@@ -635,7 +635,7 @@
       "description": "Outer Wilds mod: gives the player night vision on Echoes of the Eye's dream world.",
       "author": "Heelio",
       "downloadUrl": "https://github.com/Heelio/EotE-Brighter-Dreams/releases/download/0.1.1/Heelio.EotEBrighterDreams.zip",
-      "downloadCount": 3181,
+      "downloadCount": 3182,
       "latestReleaseDate": "2021-11-28T22:52:25Z",
       "firstReleaseDate": "2021-11-28T20:52:42Z",
       "repo": "https://github.com/Heelio/EotE-Brighter-Dreams",
@@ -648,8 +648,8 @@
         "audiovisual"
       ],
       "slug": "eotebrighterdreams",
-      "viewCount": 274,
-      "installCount": 168
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Unity Explorer",
@@ -675,8 +675,8 @@
         "tool"
       ],
       "slug": "unityexplorer",
-      "viewCount": 137,
-      "installCount": 39
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Half-Life Overhaul",
@@ -697,8 +697,8 @@
         "audiovisual"
       ],
       "slug": "halflifeoverhaul",
-      "viewCount": 21,
-      "installCount": 18
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Auto Resume",
@@ -719,8 +719,8 @@
         "tweaks"
       ],
       "slug": "autoresume",
-      "viewCount": 16,
-      "installCount": 19
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Outer Thomas Echoes of the Tank Engine",
@@ -741,8 +741,8 @@
         "audiovisual"
       ],
       "slug": "outerthomasechoesofthetankengine",
-      "viewCount": 22,
-      "installCount": 25
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Majora's Mask's Moon",
@@ -763,8 +763,8 @@
         "audiovisual"
       ],
       "slug": "majorasmasksmoon",
-      "viewCount": 15,
-      "installCount": 24
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "New Horizons",
@@ -788,8 +788,8 @@
         "story"
       ],
       "slug": "newhorizons",
-      "viewCount": 855,
-      "installCount": 336
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "New Horizons Examples",
@@ -812,8 +812,8 @@
         "content"
       ],
       "slug": "newhorizonsexamples",
-      "viewCount": 88,
-      "installCount": 78
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Real Solar System",
@@ -835,8 +835,8 @@
         "content"
       ],
       "slug": "realsolarsystem",
-      "viewCount": 359,
-      "installCount": 190
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Atropos",
@@ -858,8 +858,8 @@
         "content"
       ],
       "slug": "atropos",
-      "viewCount": 115,
-      "installCount": 94
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "ElliePlanets!",
@@ -881,8 +881,8 @@
         "content"
       ],
       "slug": "ellieplanets",
-      "viewCount": 17,
-      "installCount": 31
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Smol Hatchling",
@@ -903,8 +903,8 @@
         "gameplay"
       ],
       "slug": "smolhatchling",
-      "viewCount": 29,
-      "installCount": 34
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Hiker's Mod",
@@ -930,8 +930,8 @@
         "gameplay"
       ],
       "slug": "hikersmod",
-      "viewCount": 36,
-      "installCount": 62
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Outer Wilds Galaxy",
@@ -954,8 +954,8 @@
         "content"
       ],
       "slug": "outerwildsgalaxy",
-      "viewCount": 101,
-      "installCount": 85
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Signals+",
@@ -977,8 +977,8 @@
         "content"
       ],
       "slug": "signals",
-      "viewCount": 49,
-      "installCount": 61
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Save Editor",
@@ -999,8 +999,8 @@
         "tool"
       ],
       "slug": "saveeditor",
-      "viewCount": 104,
-      "installCount": 36
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Meteor Launching",
@@ -1021,8 +1021,8 @@
         "gameplay"
       ],
       "slug": "meteorlaunching",
-      "viewCount": 43,
-      "installCount": 43
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Slate Simulator",
@@ -1043,8 +1043,8 @@
         "gameplay"
       ],
       "slug": "slatesimulator",
-      "viewCount": 29,
-      "installCount": 12
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "TARDIS from Doctor Who",
@@ -1066,8 +1066,8 @@
         "content"
       ],
       "slug": "tardisfromdoctorwho",
-      "viewCount": 54,
-      "installCount": 36
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Solar Neighbourhood",
@@ -1094,8 +1094,8 @@
         "content"
       ],
       "slug": "solarneighbourhood",
-      "viewCount": 146,
-      "installCount": 104
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Vanilla Main Menu",
@@ -1116,8 +1116,8 @@
         "audiovisual"
       ],
       "slug": "vanillamainmenu",
-      "viewCount": 6,
-      "installCount": 10
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Outer Wilds Korean Translation",
@@ -1138,8 +1138,8 @@
         "localization"
       ],
       "slug": "outerwildskoreantranslation",
-      "viewCount": 265,
-      "installCount": 286
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Astroneer Solar System",
@@ -1161,8 +1161,8 @@
         "content"
       ],
       "slug": "astroneersolarsystem",
-      "viewCount": 36,
-      "installCount": 54
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Black Hole Portal Gun",
@@ -1183,8 +1183,8 @@
         "gameplay"
       ],
       "slug": "blackholeportalgun",
-      "viewCount": 37,
-      "installCount": 60
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Outer Wario Echoes of the Waaaaaaaaaaah",
@@ -1205,8 +1205,8 @@
         "audiovisual"
       ],
       "slug": "outerwarioechoesofthewaaaaaaaaaaah",
-      "viewCount": 15,
-      "installCount": 24
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Suicide Mod",
@@ -1227,8 +1227,8 @@
         "tool"
       ],
       "slug": "suicidemod",
-      "viewCount": 23,
-      "installCount": 45
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Outer Wilds Music Player",
@@ -1249,8 +1249,8 @@
         "audiovisual"
       ],
       "slug": "outerwildsmusicplayer",
-      "viewCount": 23,
-      "installCount": 41
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Collider Visualizer",
@@ -1271,8 +1271,8 @@
         "tool"
       ],
       "slug": "collidervisualizer",
-      "viewCount": 4,
-      "installCount": 9
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Archaeologist Achievement Helper",
@@ -1294,8 +1294,8 @@
         "tool"
       ],
       "slug": "archaeologistachievementhelper",
-      "viewCount": 96,
-      "installCount": 123
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Enter the Warioverse",
@@ -1317,8 +1317,8 @@
         "content"
       ],
       "slug": "enterthewarioverse",
-      "viewCount": 34,
-      "installCount": 47
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "21st Century Anglerfish",
@@ -1339,8 +1339,8 @@
         "audiovisual"
       ],
       "slug": "21stcenturyanglerfish",
-      "viewCount": 75,
-      "installCount": 46
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Medley of Planets",
@@ -1362,8 +1362,8 @@
         "content"
       ],
       "slug": "medleyofplanets",
-      "viewCount": 42,
-      "installCount": 51
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Outer Wilds Flyover",
@@ -1385,8 +1385,8 @@
         "gameplay"
       ],
       "slug": "outerwildsflyover",
-      "viewCount": 16,
-      "installCount": 20
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Incursion: Final Dawn",
@@ -1408,8 +1408,8 @@
         "content"
       ],
       "slug": "incursionfinaldawn",
-      "viewCount": 53,
-      "installCount": 57
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "TRAPPIST-1",
@@ -1431,8 +1431,8 @@
         "content"
       ],
       "slug": "trappist1",
-      "viewCount": 14,
-      "installCount": 32
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Input Demo Recorder",
@@ -1458,8 +1458,8 @@
         "tool"
       ],
       "slug": "inputdemorecorder",
-      "viewCount": 8,
-      "installCount": 2
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Celeste Wilds",
@@ -1480,8 +1480,8 @@
         "gameplay"
       ],
       "slug": "celestewilds",
-      "viewCount": 26,
-      "installCount": 32
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Grapefruit",
@@ -1508,8 +1508,8 @@
         "content"
       ],
       "slug": "grapefruit",
-      "viewCount": 18,
-      "installCount": 33
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Visible Stranger",
@@ -1530,8 +1530,8 @@
         "audiovisual"
       ],
       "slug": "visiblestranger",
-      "viewCount": 60,
-      "installCount": 86
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Hollodjustment",
@@ -1552,8 +1552,8 @@
         "gameplay"
       ],
       "slug": "hollodjustment",
-      "viewCount": 5,
-      "installCount": 7
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Vanilla Fix",
@@ -1561,7 +1561,7 @@
       "description": "Fixes some vanilla bugs in Outer Wilds",
       "author": "JohnCorby",
       "downloadUrl": "https://github.com/JohnCorby/ow-vanilla-fix/releases/download/0.10.2/JohnCorby.VanillaFix.zip",
-      "downloadCount": 12102,
+      "downloadCount": 12104,
       "latestReleaseDate": "2022-10-01T04:44:36Z",
       "firstReleaseDate": "2022-03-25T17:42:01Z",
       "repo": "https://github.com/JohnCorby/ow-vanilla-fix",
@@ -1574,8 +1574,8 @@
         "tweaks"
       ],
       "slug": "vanillafix",
-      "viewCount": 239,
-      "installCount": 308
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Only Timber Hearth",
@@ -1602,8 +1602,8 @@
         "content"
       ],
       "slug": "onlytimberhearth",
-      "viewCount": 7,
-      "installCount": 8
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Title Screen Bug Fix",
@@ -1624,8 +1624,8 @@
         "audiovisual"
       ],
       "slug": "titlescreenbugfix",
-      "viewCount": 18,
-      "installCount": 1
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Ghost Translations",
@@ -1646,8 +1646,8 @@
         "content"
       ],
       "slug": "ghosttranslations",
-      "viewCount": 167,
-      "installCount": 69
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Voice Acting Mod",
@@ -1669,8 +1669,8 @@
         "audiovisual"
       ],
       "slug": "voiceactingmod",
-      "viewCount": 253,
-      "installCount": 140
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Their Homeworld",
@@ -1692,8 +1692,8 @@
         "content"
       ],
       "slug": "theirhomeworld",
-      "viewCount": 20,
-      "installCount": 38
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Vengeful Cannon",
@@ -1710,8 +1710,8 @@
         "gameplay"
       ],
       "slug": "vengefulcannon",
-      "viewCount": 14,
-      "installCount": 11
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Almond System",
@@ -1733,8 +1733,8 @@
         "content"
       ],
       "slug": "almondsystem",
-      "viewCount": 14,
-      "installCount": 32
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Persistant Marshmallow",
@@ -1755,8 +1755,8 @@
         "tweaks"
       ],
       "slug": "persistantmarshmallow",
-      "viewCount": 4,
-      "installCount": 10
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Empty Hollow",
@@ -1777,8 +1777,8 @@
         "content"
       ],
       "slug": "emptyhollow",
-      "viewCount": 14,
-      "installCount": 11
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Interstellar: Gargantua",
@@ -1800,8 +1800,8 @@
         "content"
       ],
       "slug": "interstellargargantua",
-      "viewCount": 86,
-      "installCount": 68
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Jammer Lore",
@@ -1824,8 +1824,8 @@
         "content"
       ],
       "slug": "jammerlore",
-      "viewCount": 22,
-      "installCount": 23
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Ghostbuster",
@@ -1846,8 +1846,8 @@
         "gameplay"
       ],
       "slug": "ghostbuster",
-      "viewCount": 22,
-      "installCount": 13
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Open Doors",
@@ -1868,8 +1868,8 @@
         "gameplay"
       ],
       "slug": "opendoors",
-      "viewCount": 22,
-      "installCount": 19
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Sleep Mod",
@@ -1890,8 +1890,8 @@
         "tool"
       ],
       "slug": "sleepmod",
-      "viewCount": 5,
-      "installCount": 9
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Ghost Matter Nerf",
@@ -1912,8 +1912,8 @@
         "tweaks"
       ],
       "slug": "ghostmatternerf",
-      "viewCount": 29,
-      "installCount": 17
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Add LIV Support",
@@ -1935,8 +1935,8 @@
         "integration"
       ],
       "slug": "addlivsupport",
-      "viewCount": 26,
-      "installCount": 88
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "360 Camera",
@@ -1957,8 +1957,8 @@
         "tool"
       ],
       "slug": "360camera",
-      "viewCount": 3,
-      "installCount": 8
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "No End",
@@ -1979,8 +1979,8 @@
         "tweaks"
       ],
       "slug": "noend",
-      "viewCount": 21,
-      "installCount": 27
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "No Dam Break",
@@ -2001,8 +2001,8 @@
         "tweaks"
       ],
       "slug": "nodambreak",
-      "viewCount": 9,
-      "installCount": 21
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Alter Time",
@@ -2023,8 +2023,8 @@
         "tool"
       ],
       "slug": "altertime",
-      "viewCount": 19,
-      "installCount": 25
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Survive the Supernova",
@@ -2045,8 +2045,8 @@
         "tweaks"
       ],
       "slug": "survivethesupernova",
-      "viewCount": 38,
-      "installCount": 35
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Achievements+",
@@ -2068,8 +2068,8 @@
         "tweaks"
       ],
       "slug": "achievements",
-      "viewCount": 40,
-      "installCount": 82
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Supernova On Demand",
@@ -2090,8 +2090,8 @@
         "tool"
       ],
       "slug": "supernovaondemand",
-      "viewCount": 26,
-      "installCount": 30
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Big Heads",
@@ -2112,8 +2112,8 @@
         "audiovisual"
       ],
       "slug": "bigheads",
-      "viewCount": 14,
-      "installCount": 3
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Bring Me My Ship",
@@ -2134,8 +2134,8 @@
         "tool"
       ],
       "slug": "bringmemyship",
-      "viewCount": 12,
-      "installCount": 52
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Arkose bug fix",
@@ -2157,8 +2157,8 @@
         "content"
       ],
       "slug": "arkosebugfix",
-      "viewCount": 11,
-      "installCount": 15
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Woah Watch Those Frames",
@@ -2179,8 +2179,8 @@
         "tweaks"
       ],
       "slug": "woahwatchthoseframes",
-      "viewCount": 7,
-      "installCount": 10
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Timber Twin",
@@ -2202,8 +2202,8 @@
         "content"
       ],
       "slug": "timbertwin",
-      "viewCount": 34,
-      "installCount": 17
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Toggle Velocity Matching",
@@ -2224,8 +2224,8 @@
         "tweaks"
       ],
       "slug": "togglevelocitymatching",
-      "viewCount": 9,
-      "installCount": 43
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Time Saver",
@@ -2246,8 +2246,8 @@
         "tweaks"
       ],
       "slug": "timesaver",
-      "viewCount": 34,
-      "installCount": 52
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Changed Twins",
@@ -2269,8 +2269,8 @@
         "content"
       ],
       "slug": "changedtwins",
-      "viewCount": 27,
-      "installCount": 25
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Power Failure",
@@ -2291,8 +2291,8 @@
         "audiovisual"
       ],
       "slug": "powerfailure",
-      "viewCount": 40,
-      "installCount": 29
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Outer Wilds Traditional Chinese Translation",
@@ -2313,8 +2313,8 @@
         "localization"
       ],
       "slug": "outerwildstraditionalchinesetranslation",
-      "viewCount": 10,
-      "installCount": 17
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Less Lonely Ship",
@@ -2336,8 +2336,8 @@
         "content"
       ],
       "slug": "lesslonelyship",
-      "viewCount": 78,
-      "installCount": 35
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Cloudless Quantum Moons",
@@ -2359,8 +2359,8 @@
         "content"
       ],
       "slug": "cloudlessquantummoons",
-      "viewCount": 23,
-      "installCount": 32
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Backer's satellite signal",
@@ -2382,8 +2382,8 @@
         "content"
       ],
       "slug": "backerssatellitesignal",
-      "viewCount": 9,
-      "installCount": 23
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Suit Log",
@@ -2391,7 +2391,7 @@
       "description": "Suit up and view your Ship Log anywhere!",
       "author": "dgarroDC",
       "downloadUrl": "https://github.com/dgarroDC/SuitLog/releases/download/1.2.5/dgarro.SuitLog.zip",
-      "downloadCount": 1453,
+      "downloadCount": 1454,
       "latestReleaseDate": "2022-10-07T13:24:11Z",
       "firstReleaseDate": "2022-05-21T21:47:27Z",
       "repo": "https://github.com/dgarroDC/SuitLog",
@@ -2405,8 +2405,8 @@
         "gameplay"
       ],
       "slug": "suitlog",
-      "viewCount": 47,
-      "installCount": 81
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Hatchling Outfitter",
@@ -2427,8 +2427,8 @@
         "audiovisual"
       ],
       "slug": "hatchlingoutfitter",
-      "viewCount": 19,
-      "installCount": 12
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Quality of Life Changes",
@@ -2449,8 +2449,8 @@
         "tweaks"
       ],
       "slug": "qualityoflifechanges",
-      "viewCount": 30,
-      "installCount": 27
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Common Camera Utility",
@@ -2472,8 +2472,8 @@
         "library"
       ],
       "slug": "commoncamerautility",
-      "viewCount": 36,
-      "installCount": 55
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Better Model Ship",
@@ -2494,8 +2494,8 @@
         "gameplay"
       ],
       "slug": "bettermodelship",
-      "viewCount": 34,
-      "installCount": 58
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Cloudless Giant's Deep",
@@ -2517,8 +2517,8 @@
         "content"
       ],
       "slug": "cloudlessgiantsdeep",
-      "viewCount": 15,
-      "installCount": 29
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Involuntary Blink",
@@ -2539,8 +2539,8 @@
         "gameplay"
       ],
       "slug": "involuntaryblink",
-      "viewCount": 7,
-      "installCount": 7
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Primitive Launching",
@@ -2562,8 +2562,8 @@
         "gameplay"
       ],
       "slug": "primitivelaunching",
-      "viewCount": 5,
-      "installCount": 15
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Alpha Title Screen",
@@ -2584,8 +2584,8 @@
         "audiovisual"
       ],
       "slug": "alphatitlescreen",
-      "viewCount": 8,
-      "installCount": 3
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Controllable Stranger",
@@ -2606,8 +2606,8 @@
         "tool"
       ],
       "slug": "controllablestranger",
-      "viewCount": 13,
-      "installCount": 16
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Upsilon Andromedae",
@@ -2629,8 +2629,8 @@
         "content"
       ],
       "slug": "upsilonandromedae",
-      "viewCount": 30,
-      "installCount": 17
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Fact Log",
@@ -2651,8 +2651,8 @@
         "tool"
       ],
       "slug": "factlog",
-      "viewCount": 5,
-      "installCount": 9
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "BlackHole Sun",
@@ -2674,8 +2674,8 @@
         "content"
       ],
       "slug": "blackholesun",
-      "viewCount": 21,
-      "installCount": 28
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "No Sun",
@@ -2697,8 +2697,8 @@
         "content"
       ],
       "slug": "nosun",
-      "viewCount": 7,
-      "installCount": 13
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Ordered Orbits",
@@ -2720,8 +2720,8 @@
         "content"
       ],
       "slug": "orderedorbits",
-      "viewCount": 13,
-      "installCount": 11
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Ship Remote Autopilot",
@@ -2742,8 +2742,8 @@
         "gameplay"
       ],
       "slug": "shipremoteautopilot",
-      "viewCount": 10,
-      "installCount": 23
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Block Placing",
@@ -2764,8 +2764,8 @@
         "gameplay"
       ],
       "slug": "blockplacing",
-      "viewCount": 21,
-      "installCount": 29
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Czech Localization",
@@ -2786,8 +2786,8 @@
         "localization"
       ],
       "slug": "czechlocalization",
-      "viewCount": 3,
-      "installCount": 1
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Carson System",
@@ -2809,8 +2809,8 @@
         "content"
       ],
       "slug": "carsonsystem",
-      "viewCount": 25,
-      "installCount": 26
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Sound Test",
@@ -2831,8 +2831,8 @@
         "tool"
       ],
       "slug": "soundtest",
-      "viewCount": 5,
-      "installCount": 9
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Interplanetary Polyglot",
@@ -2855,8 +2855,8 @@
         "localization"
       ],
       "slug": "interplanetarypolyglot",
-      "viewCount": 10,
-      "installCount": 1
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "StopTime",
@@ -2873,8 +2873,8 @@
         "tool"
       ],
       "slug": "stoptime",
-      "viewCount": 59,
-      "installCount": 82
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Galaxy Skybox: NGC 1087",
@@ -2896,8 +2896,8 @@
         "audiovisual"
       ],
       "slug": "galaxyskyboxngc1087",
-      "viewCount": 20,
-      "installCount": 22
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Quantum Moon Orbit Line",
@@ -2919,8 +2919,8 @@
         "audiovisual"
       ],
       "slug": "quantummoonorbitline",
-      "viewCount": 8,
-      "installCount": 10
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Permadeath Mode",
@@ -2941,8 +2941,8 @@
         "gameplay"
       ],
       "slug": "permadeathmode",
-      "viewCount": 18,
-      "installCount": 5
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Sun Station Ascension",
@@ -2964,8 +2964,8 @@
         "content"
       ],
       "slug": "sunstationascension",
-      "viewCount": 21,
-      "installCount": 25
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Discord Rich Presence",
@@ -2986,8 +2986,8 @@
         "integration"
       ],
       "slug": "discordrichpresence",
-      "viewCount": 37,
-      "installCount": 63
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Artifact Laser",
@@ -3008,8 +3008,8 @@
         "gameplay"
       ],
       "slug": "artifactlaser",
-      "viewCount": 21,
-      "installCount": 28
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Speed Modifier/Walk Button on KBM",
@@ -3030,8 +3030,8 @@
         "gameplay"
       ],
       "slug": "speedmodifierwalkbuttononkbm",
-      "viewCount": 6,
-      "installCount": 3
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Cut Achievements",
@@ -3049,8 +3049,8 @@
         "content"
       ],
       "slug": "cutachievements",
-      "viewCount": 23,
-      "installCount": 52
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Chargeable Scout Launcher",
@@ -3071,8 +3071,8 @@
         "gameplay"
       ],
       "slug": "chargeablescoutlauncher",
-      "viewCount": 5,
-      "installCount": 12
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "(Razer/SteelSeries) RGB Integration",
@@ -3093,8 +3093,8 @@
         "integration"
       ],
       "slug": "razersteelseriesrgbintegration",
-      "viewCount": 7,
-      "installCount": 11
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Europe Times",
@@ -3115,8 +3115,8 @@
         "audiovisual"
       ],
       "slug": "europetimes",
-      "viewCount": 2,
-      "installCount": 19
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Hazy Dreams",
@@ -3139,8 +3139,8 @@
         "audiovisual"
       ],
       "slug": "hazydreams",
-      "viewCount": 10,
-      "installCount": 25
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Gizmos Library",
@@ -3163,8 +3163,8 @@
         "library"
       ],
       "slug": "gizmoslibrary",
-      "viewCount": 4,
-      "installCount": 2
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Wacky Rotations",
@@ -3186,8 +3186,8 @@
         "content"
       ],
       "slug": "wackyrotations",
-      "viewCount": 16,
-      "installCount": 15
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "The Vision",
@@ -3211,8 +3211,8 @@
         "content"
       ],
       "slug": "thevision",
-      "viewCount": 1191,
-      "installCount": 350
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Secret Words",
@@ -3235,8 +3235,8 @@
         "content"
       ],
       "slug": "secretwords",
-      "viewCount": 60,
-      "installCount": 57
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Slate's Shipyard",
@@ -3267,8 +3267,8 @@
         "content"
       ],
       "slug": "slatesshipyard",
-      "viewCount": 55,
-      "installCount": 63
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Spaceshipinha",
@@ -3296,8 +3296,8 @@
         "gameplay"
       ],
       "slug": "spaceshipinha",
-      "viewCount": 32,
-      "installCount": 53
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "DOOM",
@@ -3319,8 +3319,8 @@
         "gameplay"
       ],
       "slug": "doom",
-      "viewCount": 133,
-      "installCount": 87
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Car Example",
@@ -3348,8 +3348,8 @@
         "gameplay"
       ],
       "slug": "carexample",
-      "viewCount": 14,
-      "installCount": 47
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Clear Glass",
@@ -3371,8 +3371,8 @@
         "audiovisual"
       ],
       "slug": "clearglass",
-      "viewCount": 22,
-      "installCount": 28
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Bhaptics Outer Wilds",
@@ -3394,8 +3394,8 @@
         "integration"
       ],
       "slug": "bhapticsouterwilds",
-      "viewCount": 5,
-      "installCount": 8
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Espied Serenity",
@@ -3417,8 +3417,8 @@
         "content"
       ],
       "slug": "espiedserenity",
-      "viewCount": 26,
-      "installCount": 28
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Green Jetpack",
@@ -3440,8 +3440,8 @@
         "audiovisual"
       ],
       "slug": "greenjetpack",
-      "viewCount": 11,
-      "installCount": 22
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Secret Settings",
@@ -3463,8 +3463,8 @@
         "tool"
       ],
       "slug": "secretsettings",
-      "viewCount": 51,
-      "installCount": 80
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Fret's Quest",
@@ -3488,8 +3488,8 @@
         "story"
       ],
       "slug": "fretsquest",
-      "viewCount": 354,
-      "installCount": 87
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Heavy Sleeper",
@@ -3511,8 +3511,8 @@
         "gameplay"
       ],
       "slug": "heavysleeper",
-      "viewCount": 13,
-      "installCount": 8
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "The Funniest System",
@@ -3535,8 +3535,8 @@
         "content"
       ],
       "slug": "thefunniestsystem",
-      "viewCount": 112,
-      "installCount": 55
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Scout Teleporter",
@@ -3558,8 +3558,8 @@
         "gameplay"
       ],
       "slug": "scoutteleporter",
-      "viewCount": 29,
-      "installCount": 56
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Custom Ship Log Modes",
@@ -3582,8 +3582,8 @@
         "library"
       ],
       "slug": "customshiplogmodes",
-      "viewCount": 24,
-      "installCount": 36
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Ship Log Slide Reel Player Plus",
@@ -3606,8 +3606,8 @@
         "tweaks"
       ],
       "slug": "shiplogslidereelplayerplus",
-      "viewCount": 19,
-      "installCount": 57
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Smallest System in the Galaxy",
@@ -3630,8 +3630,8 @@
         "content"
       ],
       "slug": "smallestsysteminthegalaxy",
-      "viewCount": 29,
-      "installCount": 37
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Developer Console",
@@ -3655,8 +3655,8 @@
         "tool"
       ],
       "slug": "developerconsole",
-      "viewCount": 12,
-      "installCount": 13
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Console Cheats",
@@ -3678,8 +3678,8 @@
         "tool"
       ],
       "slug": "consolecheats",
-      "viewCount": 15,
-      "installCount": 20
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Mo' Voices",
@@ -3701,8 +3701,8 @@
         "audiovisual"
       ],
       "slug": "movoices",
-      "viewCount": 61,
-      "installCount": 124
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "The Wilds: Extended",
@@ -3725,8 +3725,8 @@
         "content"
       ],
       "slug": "thewildsextended",
-      "viewCount": 45,
-      "installCount": 48
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Escape the Dreamstalker",
@@ -3751,8 +3751,8 @@
         "story"
       ],
       "slug": "escapethedreamstalker",
-      "viewCount": 194,
-      "installCount": 68
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Ship Self Destruct Button",
@@ -3773,8 +3773,8 @@
         "tweaks"
       ],
       "slug": "shipselfdestructbutton",
-      "viewCount": 12,
-      "installCount": 19
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Ernesto Takeover",
@@ -3797,8 +3797,8 @@
         "content"
       ],
       "slug": "ernestotakeover",
-      "viewCount": 55,
-      "installCount": 30
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Dancin' Wilds Ventures",
@@ -3822,8 +3822,8 @@
         "audiovisual"
       ],
       "slug": "dancinwildsventures",
-      "viewCount": 31,
-      "installCount": 48
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Stranger Spin Gravity",
@@ -3844,8 +3844,8 @@
         "gameplay"
       ],
       "slug": "strangerspingravity",
-      "viewCount": 37,
-      "installCount": 27
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Discord Proximity Chat",
@@ -3854,7 +3854,7 @@
       "author": "BUNN1E5",
       "parent": "Raicuparta.QuantumSpaceBuddies",
       "downloadUrl": "https://github.com/BUNN1E5/DiscordProximityChat/releases/download/0.0.1/BUNN1E5.DiscordProximityChat.zip",
-      "downloadCount": 489,
+      "downloadCount": 490,
       "latestReleaseDate": "2022-11-11T07:12:33Z",
       "firstReleaseDate": "2022-11-11T07:12:33Z",
       "repo": "https://github.com/BUNN1E5/DiscordProximityChat",
@@ -3873,8 +3873,8 @@
         "integration"
       ],
       "slug": "discordproximitychat",
-      "viewCount": 148,
-      "installCount": 297
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Slate's Shipyard for Outer Wilds Online",
@@ -3894,8 +3894,8 @@
         "library"
       ],
       "slug": "slatesshipyardforouterwildsonline",
-      "viewCount": 24,
-      "installCount": 76
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "i let the voices on the discord server make bad ideas for planets",
@@ -3918,8 +3918,8 @@
         "content"
       ],
       "slug": "iletthevoicesonthediscordservermakebadideasforplanets",
-      "viewCount": 35,
-      "installCount": 46
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Super Wild Galaxy",
@@ -3943,8 +3943,8 @@
         "content"
       ],
       "slug": "superwildgalaxy",
-      "viewCount": 83,
-      "installCount": 53
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Trajectory Prediction",
@@ -3967,8 +3967,8 @@
         "tweaks"
       ],
       "slug": "trajectoryprediction",
-      "viewCount": 198,
-      "installCount": 75
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "N Body Chaos",
@@ -3991,8 +3991,8 @@
         "tweaks"
       ],
       "slug": "nbodychaos",
-      "viewCount": 64,
-      "installCount": 50
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Shared Ship Log",
@@ -4014,8 +4014,8 @@
         "tool"
       ],
       "slug": "sharedshiplog",
-      "viewCount": 98,
-      "installCount": 18
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Kerbal Space Ventures",
@@ -4035,8 +4035,8 @@
         "tool"
       ],
       "slug": "kerbalspaceventures",
-      "viewCount": 37,
-      "installCount": 67
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Solar Systems I Made as a Kid",
@@ -4059,8 +4059,8 @@
         "content"
       ],
       "slug": "solarsystemsimadeasakid",
-      "viewCount": 41,
-      "installCount": 31
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Owlystem",
@@ -4083,8 +4083,8 @@
         "content"
       ],
       "slug": "owlystem",
-      "viewCount": 127,
-      "installCount": 62
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Nomai Text Printer",
@@ -4107,8 +4107,8 @@
         "tool"
       ],
       "slug": "nomaitextprinter",
-      "viewCount": 20,
-      "installCount": 10
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "The Final Shortcut",
@@ -4130,8 +4130,8 @@
         "tweaks"
       ],
       "slug": "thefinalshortcut",
-      "viewCount": 140,
-      "installCount": 66
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "How Did This Happen?",
@@ -4153,8 +4153,8 @@
         "content"
       ],
       "slug": "howdidthishappen",
-      "viewCount": 188,
-      "installCount": 72
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "I Don't Like Sand",
@@ -4176,8 +4176,8 @@
         "content"
       ],
       "slug": "idontlikesand",
-      "viewCount": 77,
-      "installCount": 23
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Outer Wilds en Andalûh",
@@ -4199,8 +4199,8 @@
         "localization"
       ],
       "slug": "outerwildsenandalh",
-      "viewCount": 23,
-      "installCount": 11
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Outer Pictures",
@@ -4208,7 +4208,7 @@
       "description": "An Outer Wilds mod to print your pictures from the probe camera to your computer",
       "author": "Pau318",
       "downloadUrl": "https://github.com/Pau318/OuterPictures/releases/download/v0.1.1/Pau318.OuterPictures.zip",
-      "downloadCount": 18,
+      "downloadCount": 20,
       "latestReleaseDate": "2022-12-23T12:56:42Z",
       "firstReleaseDate": "2022-12-19T21:01:39Z",
       "repo": "https://github.com/Pau318/OuterPictures",
@@ -4222,8 +4222,8 @@
         "gameplay"
       ],
       "slug": "outerpictures",
-      "viewCount": 51,
-      "installCount": 11
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "SpeedTools",
@@ -4246,8 +4246,8 @@
         "tool"
       ],
       "slug": "speedtools",
-      "viewCount": 61,
-      "installCount": 8
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Break On Demand",
@@ -4268,8 +4268,8 @@
         "gameplay"
       ],
       "slug": "breakondemand",
-      "viewCount": 11,
-      "installCount": 5
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Funny Christmas",
@@ -4293,7 +4293,7 @@
       ],
       "slug": "funnychristmas",
       "viewCount": 0,
-      "installCount": 1
+      "installCount": 0
     },
     {
       "name": "Enable Meditation",
@@ -4342,7 +4342,7 @@
         "library"
       ],
       "slug": "bepinex",
-      "viewCount": 16,
+      "viewCount": 0,
       "installCount": 0
     },
     {
@@ -4363,7 +4363,7 @@
         "library"
       ],
       "slug": "owaml",
-      "viewCount": 1,
+      "viewCount": 0,
       "installCount": 0
     },
     {
@@ -4387,7 +4387,7 @@
         "library"
       ],
       "slug": "camowa",
-      "viewCount": 1,
+      "viewCount": 0,
       "installCount": 0
     },
     {
@@ -4410,8 +4410,8 @@
         "tweaks"
       ],
       "slug": "alphafixes",
-      "viewCount": 8,
-      "installCount": 1
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Navinha",
@@ -4433,8 +4433,8 @@
         "gameplay"
       ],
       "slug": "navinha",
-      "viewCount": 6,
-      "installCount": 1
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Free Cam Mod",
@@ -4456,8 +4456,8 @@
         "tool"
       ],
       "slug": "freecammod",
-      "viewCount": 9,
-      "installCount": 3
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Probe Grapple",
@@ -4484,8 +4484,8 @@
         "gameplay"
       ],
       "slug": "probegrapple",
-      "viewCount": 1,
-      "installCount": 1
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Cooler Bottom Cams",
@@ -4530,8 +4530,8 @@
         "tweaks"
       ],
       "slug": "enhancedmallows",
-      "viewCount": 1,
-      "installCount": 2
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "Automatic Launch Codes",
@@ -4553,8 +4553,8 @@
         "tweaks"
       ],
       "slug": "automaticlaunchcodes",
-      "viewCount": 6,
-      "installCount": 1
+      "viewCount": 0,
+      "installCount": 0
     },
     {
       "name": "No Probe Launch Window",
@@ -4576,7 +4576,7 @@
         "tweaks"
       ],
       "slug": "noprobelaunchwindow",
-      "viewCount": 1,
+      "viewCount": 0,
       "installCount": 0
     },
     {
@@ -4599,7 +4599,7 @@
         "tool"
       ],
       "slug": "runtimeunityeditor",
-      "viewCount": 5,
+      "viewCount": 0,
       "installCount": 0
     }
   ]
