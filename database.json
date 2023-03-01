@@ -4,7 +4,7 @@
     "downloadUrl": "https://github.com/ow-mods/ow-mod-manager/releases/download/v1.17.1/OuterWildsModManager-Portable.zip",
     "zipDownloadUrl": "https://github.com/ow-mods/ow-mod-manager/releases/download/v1.17.1/OuterWildsModManager-Portable.zip",
     "installerDownloadUrl": "https://github.com/ow-mods/ow-mod-manager/releases/download/v1.17.1/OuterWildsModManager-Installer.exe",
-    "downloadCount": 108218
+    "downloadCount": 108222
   },
   "releases": [
     {
@@ -6279,8 +6279,8 @@
       "thumbnail": {
         "main": "celestialleeway.webp"
       },
-      "repoUpdatedAt": "2023-02-04T18:43:31Z",
-      "databaseEntryUpdatedAt": "2023-03-01T02:22:02.117Z",
+      "repoUpdatedAt": "2023-03-01T03:03:21Z",
+      "databaseEntryUpdatedAt": "2023-03-01T03:08:32.599Z",
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
