@@ -2088,6 +2088,15 @@
       "tags": [
         "tweaks"
       ]
+    },
+    {
+      "name": "The Best Mod!!",
+      "uniqueName": "Raicuparta.BestMod",
+      "repo": "raicuparta/nomaivr",
+      "tags": [
+        "integration",
+        "content"
+      ]
     }
   ]
 }
