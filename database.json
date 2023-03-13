@@ -4,7 +4,7 @@
     "downloadUrl": "https://github.com/ow-mods/ow-mod-manager/releases/download/v1.17.2/OuterWildsModManager-Portable.zip",
     "zipDownloadUrl": "https://github.com/ow-mods/ow-mod-manager/releases/download/v1.17.2/OuterWildsModManager-Portable.zip",
     "installerDownloadUrl": "https://github.com/ow-mods/ow-mod-manager/releases/download/v1.17.2/OuterWildsModManager-Installer.exe",
-    "downloadCount": 110936
+    "downloadCount": 110938
   },
   "releases": [
     {
@@ -79,40 +79,6 @@
       "weeklyInstallCount": 0,
       "latestPrereleaseDescription": "",
       "latestReleaseDescription": ""
-    },
-    {
-      "name": "NomaiVR 5: The re-Veearning",
-      "uniqueName": "Raicuparta.NomaiVR5",
-      "description": "ignore-test",
-      "author": "ow-mods",
-      "downloadUrl": "https://github.com/ow-mods/ignore-test/releases/download/v0.1.0/info.zip",
-      "downloadCount": 0,
-      "latestReleaseDate": "2023-03-13T15:10:11Z",
-      "firstReleaseDate": "2023-03-13T15:10:11Z",
-      "repo": "https://github.com/ow-mods/ignore-test",
-      "version": "v0.1.0",
-      "readme": {
-        "htmlUrl": "https://github.com/ow-mods/ignore-test/blob/master/README.md",
-        "downloadUrl": "https://raw.githubusercontent.com/ow-mods/ignore-test/master/README.md"
-      },
-      "authorDisplay": "Raicuparta & Artum",
-      "latestReleaseDescription": "This is the release boys!",
-      "latestPrereleaseDescription": "",
-      "tags": [
-        "gameplay",
-        "integration"
-      ],
-      "slug": "nomaivr5thereveearning",
-      "thumbnail": {
-        "main": "nomaivr5thereveearning.webp",
-        "openGraph": "nomaivr5thereveearning-static.webp"
-      },
-      "repoUpdatedAt": "2023-03-13T15:10:13Z",
-      "databaseEntryUpdatedAt": "2023-03-13T15:12:28.588Z",
-      "viewCount": 0,
-      "weeklyViewCount": 0,
-      "installCount": 0,
-      "weeklyInstallCount": 0
     },
     {
       "name": "Quantum Space Buddies",
