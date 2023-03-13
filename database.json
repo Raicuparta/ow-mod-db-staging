@@ -4,7 +4,7 @@
     "downloadUrl": "https://github.com/ow-mods/ow-mod-manager/releases/download/v1.17.2/OuterWildsModManager-Portable.zip",
     "zipDownloadUrl": "https://github.com/ow-mods/ow-mod-manager/releases/download/v1.17.2/OuterWildsModManager-Portable.zip",
     "installerDownloadUrl": "https://github.com/ow-mods/ow-mod-manager/releases/download/v1.17.2/OuterWildsModManager-Installer.exe",
-    "downloadCount": 110944
+    "downloadCount": 110946
   },
   "releases": [
     {
@@ -2216,37 +2216,6 @@
       },
       "repoUpdatedAt": "2022-04-01T15:34:58Z",
       "databaseEntryUpdatedAt": "2023-03-13T14:23:17.304Z",
-      "viewCount": 0,
-      "weeklyViewCount": 0,
-      "installCount": 0,
-      "weeklyInstallCount": 0,
-      "latestPrereleaseDescription": "",
-      "latestReleaseDescription": ""
-    },
-    {
-      "name": "Ghost Translations",
-      "uniqueName": "MegaPiggy.GhostTranslations",
-      "description": "Adds the ability to translate the unknown language.",
-      "author": "MegaPiggy",
-      "downloadUrl": "https://github.com/MegaPiggy/GhostTranslations/releases/download/1.0.2/MegaPiggy.GhostTranslations.zip",
-      "downloadCount": 1612,
-      "latestReleaseDate": "2022-09-18T02:24:25Z",
-      "firstReleaseDate": "2022-04-03T00:22:57Z",
-      "repo": "https://github.com/MegaPiggy/GhostTranslations",
-      "version": "1.0.2",
-      "readme": {
-        "htmlUrl": "https://github.com/MegaPiggy/GhostTranslations/blob/master/README.md",
-        "downloadUrl": "https://raw.githubusercontent.com/MegaPiggy/GhostTranslations/master/README.md"
-      },
-      "tags": [
-        "content"
-      ],
-      "slug": "ghosttranslations",
-      "thumbnail": {
-        "main": "ghosttranslations.webp"
-      },
-      "repoUpdatedAt": "2023-02-25T11:56:48Z",
-      "databaseEntryUpdatedAt": "2023-03-13T14:23:17.272Z",
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
