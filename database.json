@@ -77,6 +77,43 @@
       "weeklyInstallCount": 0
     },
     {
+      "name": "NomaiVR 2: The Veearning",
+      "uniqueName": "Raicuparta.NomaiVR2",
+      "description": "Outer Wilds VR Mod with 6DOF tracking and full motion control support",
+      "author": "Raicuparta",
+      "downloadUrl": "https://github.com/Raicuparta/nomai-vr/releases/download/2.9.2/Raicuparta.NomaiVR.zip",
+      "downloadCount": 52080,
+      "latestReleaseDate": "2023-01-23T22:12:18Z",
+      "firstReleaseDate": "2020-01-06T20:41:19Z",
+      "repo": "https://github.com/Raicuparta/nomai-vr",
+      "version": "2.9.2",
+      "readme": {
+        "htmlUrl": "https://github.com/Raicuparta/nomai-vr/blob/master/README.md",
+        "downloadUrl": "https://raw.githubusercontent.com/Raicuparta/nomai-vr/master/README.md"
+      },
+      "authorDisplay": "Raicuparta & Artum",
+      "prerelease": {
+        "version": "2.9.3-pre",
+        "downloadUrl": "https://github.com/Raicuparta/nomai-vr/releases/download/2.9.3-pre/Raicuparta.NomaiVR.zip",
+        "date": "2023-02-26T00:30:26Z"
+      },
+      "tags": [
+        "gameplay",
+        "integration"
+      ],
+      "slug": "nomaivr2theveearning",
+      "thumbnail": {
+        "main": "nomaivr2theveearning.webp",
+        "openGraph": "nomaivr2theveearning-static.webp"
+      },
+      "repoUpdatedAt": "2023-03-07T22:01:12Z",
+      "databaseEntryUpdatedAt": "2023-03-13T14:28:06.671Z",
+      "viewCount": 0,
+      "weeklyViewCount": 0,
+      "installCount": 0,
+      "weeklyInstallCount": 0
+    },
+    {
       "name": "Quantum Space Buddies",
       "uniqueName": "Raicuparta.QuantumSpaceBuddies",
       "description": "Outer Wilds online multiplayer mod, using Mirror and OWML.",
