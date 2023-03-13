@@ -58,7 +58,7 @@ function getNotificationImageKey(diffItem: DiffItem) {
 function getEmbed(diffItem: DiffItem) {
   return {
     title: getNotificationTitle(diffItem),
-    description: `${getNotificationDescription(diffItem)}\n[source code](${
+    description: `${getNotificationDescription(diffItem)}\n[Source Code](${
       diffItem.nextMod.repo
     })`,
     url: `http://outerwildsmods.com/mods/${diffItem.nextMod.slug}`,
