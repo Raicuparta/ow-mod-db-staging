@@ -4,7 +4,7 @@
     "downloadUrl": "https://github.com/ow-mods/ow-mod-manager/releases/download/v1.17.2/OuterWildsModManager-Portable.zip",
     "zipDownloadUrl": "https://github.com/ow-mods/ow-mod-manager/releases/download/v1.17.2/OuterWildsModManager-Portable.zip",
     "installerDownloadUrl": "https://github.com/ow-mods/ow-mod-manager/releases/download/v1.17.2/OuterWildsModManager-Installer.exe",
-    "downloadCount": 110934
+    "downloadCount": 110935
   },
   "releases": [
     {
@@ -77,12 +77,12 @@
       "weeklyInstallCount": 0
     },
     {
-      "name": "NomaiVR 4: The Veearning",
-      "uniqueName": "Raicuparta.NomaiVR4",
+      "name": "NomaiVR 5: The re-Veearning",
+      "uniqueName": "Raicuparta.NomaiVR5",
       "description": "Outer Wilds VR Mod with 6DOF tracking and full motion control support",
       "author": "Raicuparta",
       "downloadUrl": "https://github.com/Raicuparta/nomai-vr/releases/download/2.9.2/Raicuparta.NomaiVR.zip",
-      "downloadCount": 52080,
+      "downloadCount": 52081,
       "latestReleaseDate": "2023-01-23T22:12:18Z",
       "firstReleaseDate": "2020-01-06T20:41:19Z",
       "repo": "https://github.com/Raicuparta/nomai-vr",
@@ -101,13 +101,13 @@
         "gameplay",
         "integration"
       ],
-      "slug": "nomaivr4theveearning",
+      "slug": "nomaivr5thereveearning",
       "thumbnail": {
-        "main": "nomaivr4theveearning.webp",
-        "openGraph": "nomaivr4theveearning-static.webp"
+        "main": "nomaivr5thereveearning.webp",
+        "openGraph": "nomaivr5thereveearning-static.webp"
       },
       "repoUpdatedAt": "2023-03-07T22:01:12Z",
-      "databaseEntryUpdatedAt": "2023-03-13T14:49:45.376Z",
+      "databaseEntryUpdatedAt": "2023-03-13T14:56:15.401Z",
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
