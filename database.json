@@ -4,7 +4,7 @@
     "downloadUrl": "https://github.com/ow-mods/ow-mod-manager/releases/download/v1.17.2/OuterWildsModManager-Portable.zip",
     "zipDownloadUrl": "https://github.com/ow-mods/ow-mod-manager/releases/download/v1.17.2/OuterWildsModManager-Portable.zip",
     "installerDownloadUrl": "https://github.com/ow-mods/ow-mod-manager/releases/download/v1.17.2/OuterWildsModManager-Installer.exe",
-    "downloadCount": 110935
+    "downloadCount": 110936
   },
   "releases": [
     {
@@ -37,7 +37,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "NomaiVR",
@@ -74,29 +76,28 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "NomaiVR 5: The re-Veearning",
       "uniqueName": "Raicuparta.NomaiVR5",
-      "description": "Outer Wilds VR Mod with 6DOF tracking and full motion control support",
-      "author": "Raicuparta",
-      "downloadUrl": "https://github.com/Raicuparta/nomai-vr/releases/download/2.9.2/Raicuparta.NomaiVR.zip",
-      "downloadCount": 52081,
-      "latestReleaseDate": "2023-01-23T22:12:18Z",
-      "firstReleaseDate": "2020-01-06T20:41:19Z",
-      "repo": "https://github.com/Raicuparta/nomai-vr",
-      "version": "2.9.2",
+      "description": "ignore-test",
+      "author": "ow-mods",
+      "downloadUrl": "https://github.com/ow-mods/ignore-test/releases/download/v0.1.0/info.zip",
+      "downloadCount": 0,
+      "latestReleaseDate": "2023-03-13T15:10:11Z",
+      "firstReleaseDate": "2023-03-13T15:10:11Z",
+      "repo": "https://github.com/ow-mods/ignore-test",
+      "version": "v0.1.0",
       "readme": {
-        "htmlUrl": "https://github.com/Raicuparta/nomai-vr/blob/master/README.md",
-        "downloadUrl": "https://raw.githubusercontent.com/Raicuparta/nomai-vr/master/README.md"
+        "htmlUrl": "https://github.com/ow-mods/ignore-test/blob/master/README.md",
+        "downloadUrl": "https://raw.githubusercontent.com/ow-mods/ignore-test/master/README.md"
       },
       "authorDisplay": "Raicuparta & Artum",
-      "prerelease": {
-        "version": "2.9.3-pre",
-        "downloadUrl": "https://github.com/Raicuparta/nomai-vr/releases/download/2.9.3-pre/Raicuparta.NomaiVR.zip",
-        "date": "2023-02-26T00:30:26Z"
-      },
+      "latestReleaseDescription": "This is the release boys!",
+      "latestPrereleaseDescription": "",
       "tags": [
         "gameplay",
         "integration"
@@ -106,8 +107,8 @@
         "main": "nomaivr5thereveearning.webp",
         "openGraph": "nomaivr5thereveearning-static.webp"
       },
-      "repoUpdatedAt": "2023-03-07T22:01:12Z",
-      "databaseEntryUpdatedAt": "2023-03-13T14:56:15.401Z",
+      "repoUpdatedAt": "2023-03-13T15:10:13Z",
+      "databaseEntryUpdatedAt": "2023-03-13T15:12:28.588Z",
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
@@ -146,7 +147,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Light Bramble",
@@ -175,7 +178,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "FreeCam",
@@ -205,7 +210,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Crouch Mod",
@@ -232,7 +239,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Clock",
@@ -266,7 +275,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "HD Screenshot",
@@ -295,7 +306,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Menu Framework",
@@ -323,7 +336,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "ScoutStreaming",
@@ -352,7 +367,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Vesper's Assorted OuterWilds Shaders",
@@ -381,7 +398,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Outer Wilds Online",
@@ -415,7 +434,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Cheat and Debug Menu",
@@ -442,7 +463,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Cheats Mod",
@@ -469,7 +492,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Difficulty Mod",
@@ -496,7 +521,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Peaceful Ghosts",
@@ -523,7 +550,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "SlowTime",
@@ -550,7 +579,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "OW Smooth Thrust",
@@ -577,7 +608,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Randomizer",
@@ -606,7 +639,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "PacificEngine's Common Resources",
@@ -635,7 +670,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "No Alt Tab Pause",
@@ -662,7 +699,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Echoes of the Caribbean",
@@ -691,7 +730,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Third Person Camera",
@@ -720,7 +761,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "NomaiVR Online Patches",
@@ -748,7 +791,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "NomaiVR FFR",
@@ -772,7 +817,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Static Camera",
@@ -801,7 +848,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Daydream",
@@ -831,7 +880,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "EotE Brighter Dreams",
@@ -860,7 +911,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Unity Explorer",
@@ -894,7 +947,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Half-Life Overhaul",
@@ -924,7 +979,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Auto Resume",
@@ -951,7 +1008,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Outer Thomas Echoes of the Tank Engine",
@@ -980,7 +1039,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Majora's Mask's Moon",
@@ -1009,7 +1070,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "New Horizons",
@@ -1041,7 +1104,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "New Horizons Examples",
@@ -1072,7 +1137,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Real Solar System",
@@ -1102,7 +1169,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Atropos",
@@ -1132,7 +1201,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "ElliePlanets!",
@@ -1162,7 +1233,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Smol Hatchling",
@@ -1191,7 +1264,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Hiker's Mod",
@@ -1225,7 +1300,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Outer Wilds Galaxy",
@@ -1256,7 +1333,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Signals+",
@@ -1286,7 +1365,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Save Editor",
@@ -1313,7 +1394,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Meteor Launching",
@@ -1342,7 +1425,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Slate Simulator",
@@ -1371,7 +1456,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "TARDIS from Doctor Who",
@@ -1401,7 +1488,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Solar Neighbourhood",
@@ -1436,7 +1525,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Vanilla Main Menu",
@@ -1463,7 +1554,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Outer Wilds Korean Translation",
@@ -1490,7 +1583,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Astroneer Solar System",
@@ -1520,7 +1615,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Black Hole Portal Gun",
@@ -1549,7 +1646,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Outer Wario Echoes of the Waaaaaaaaaaah",
@@ -1579,7 +1678,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Suicide Mod",
@@ -1606,7 +1707,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Outer Wilds Music Player",
@@ -1635,7 +1738,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Collider Visualizer",
@@ -1664,7 +1769,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Archaeologist Achievement Helper",
@@ -1694,7 +1801,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Enter the Warioverse",
@@ -1724,7 +1833,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "21st Century Anglerfish",
@@ -1751,7 +1862,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Medley of Planets",
@@ -1781,7 +1894,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Outer Wilds Flyover",
@@ -1811,7 +1926,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Incursion: Final Dawn",
@@ -1841,7 +1958,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "TRAPPIST-1",
@@ -1871,7 +1990,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Input Demo Recorder",
@@ -1905,7 +2026,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Celeste Wilds",
@@ -1934,7 +2057,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Grapefruit",
@@ -1969,7 +2094,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Visible Stranger",
@@ -1998,7 +2125,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Hollodjustment",
@@ -2027,7 +2156,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Vanilla Fix",
@@ -2056,7 +2187,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Only Timber Hearth",
@@ -2089,7 +2222,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Title Screen Bug Fix",
@@ -2118,7 +2253,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Ghost Translations",
@@ -2147,7 +2284,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Voice Acting Mod",
@@ -2177,7 +2316,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Their Homeworld",
@@ -2205,7 +2346,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Vengeful Cannon",
@@ -2228,7 +2371,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Almond System",
@@ -2258,7 +2403,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Persistant Marshmallow",
@@ -2285,7 +2432,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Empty Hollow",
@@ -2314,7 +2463,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Interstellar: Gargantua",
@@ -2345,7 +2496,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Jammer Lore",
@@ -2377,7 +2530,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Ghostbuster",
@@ -2406,7 +2561,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Open Doors",
@@ -2435,7 +2592,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Sleep Mod",
@@ -2464,7 +2623,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Ghost Matter Nerf",
@@ -2493,7 +2654,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Add LIV Support",
@@ -2523,7 +2686,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "360 Camera",
@@ -2552,7 +2717,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "No End",
@@ -2581,7 +2748,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "No Dam Break",
@@ -2610,7 +2779,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Alter Time",
@@ -2637,7 +2808,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Survive the Supernova",
@@ -2666,7 +2839,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Achievements+",
@@ -2696,7 +2871,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Supernova On Demand",
@@ -2725,7 +2902,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Big Heads",
@@ -2754,7 +2933,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Bring Me My Ship",
@@ -2781,7 +2962,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Arkose bug fix",
@@ -2811,7 +2994,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Woah Watch Those Frames",
@@ -2838,7 +3023,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Timber Twin",
@@ -2868,7 +3055,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Toggle Velocity Matching",
@@ -2897,7 +3086,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Time Saver",
@@ -2924,7 +3115,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Changed Twins",
@@ -2954,7 +3147,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Power Failure",
@@ -2983,7 +3178,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Outer Wilds Traditional Chinese Translation",
@@ -3012,7 +3209,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Less Lonely Ship",
@@ -3042,7 +3241,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Cloudless Quantum Moons",
@@ -3072,7 +3273,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Backer's satellite signal",
@@ -3102,7 +3305,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Suit Log",
@@ -3133,7 +3338,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Hatchling Outfitter",
@@ -3162,7 +3369,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Quality of Life Changes",
@@ -3189,7 +3398,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Common Camera Utility",
@@ -3219,7 +3430,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Better Model Ship",
@@ -3248,7 +3461,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Cloudless Giant's Deep",
@@ -3278,7 +3493,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Involuntary Blink",
@@ -3305,7 +3522,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Primitive Launching",
@@ -3335,7 +3554,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Alpha Title Screen",
@@ -3364,7 +3585,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Controllable Stranger",
@@ -3391,7 +3614,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Upsilon Andromedae",
@@ -3421,7 +3646,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Fact Log",
@@ -3450,7 +3677,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "BlackHole Sun",
@@ -3480,7 +3709,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "No Sun",
@@ -3510,7 +3741,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Ordered Orbits",
@@ -3540,7 +3773,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Ship Remote Autopilot",
@@ -3567,7 +3802,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Block Placing",
@@ -3597,7 +3834,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Czech Localization",
@@ -3624,7 +3863,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Carson System",
@@ -3654,7 +3895,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Sound Test",
@@ -3681,7 +3924,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Interplanetary Polyglot",
@@ -3710,7 +3955,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "StopTime",
@@ -3733,7 +3980,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Galaxy Skybox: NGC 1087",
@@ -3763,7 +4012,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Quantum Moon Orbit Line",
@@ -3793,7 +4044,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Permadeath Mode",
@@ -3823,7 +4076,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Sun Station Ascension",
@@ -3853,7 +4108,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Discord Rich Presence",
@@ -3882,7 +4139,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Artifact Laser",
@@ -3911,7 +4170,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Speed Modifier/Walk Button on KBM",
@@ -3941,7 +4202,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Cut Achievements",
@@ -3965,7 +4228,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Chargeable Scout Launcher",
@@ -3994,7 +4259,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "(Razer/SteelSeries) RGB Integration",
@@ -4023,7 +4290,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Europe Times",
@@ -4052,7 +4321,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Hazy Dreams",
@@ -4081,7 +4352,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Gizmos Library",
@@ -4110,7 +4383,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Wacky Rotations",
@@ -4141,7 +4416,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "The Vision",
@@ -4174,7 +4451,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Secret Words",
@@ -4205,7 +4484,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Slate's Shipyard",
@@ -4244,7 +4525,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Spaceshipinha",
@@ -4280,7 +4563,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "DOOM",
@@ -4310,7 +4595,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Car Example",
@@ -4346,7 +4633,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Clear Glass",
@@ -4376,7 +4665,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Bhaptics Outer Wilds",
@@ -4404,7 +4695,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Espied Serenity",
@@ -4434,7 +4727,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Green Jetpack",
@@ -4464,7 +4759,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Secret Settings",
@@ -4492,7 +4789,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Fret's Quest",
@@ -4524,7 +4823,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Heavy Sleeper",
@@ -4552,7 +4853,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "The Funniest System",
@@ -4583,7 +4886,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Scout Teleporter",
@@ -4614,7 +4919,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Custom Ship Log Modes",
@@ -4645,7 +4952,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Ship Log Slide Reel Player Plus",
@@ -4677,7 +4986,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Smallest System in the Galaxy",
@@ -4708,7 +5019,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Developer Console",
@@ -4740,7 +5053,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Console Cheats",
@@ -4768,7 +5083,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Alternate Voices",
@@ -4799,7 +5116,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "The Wilds: Extended",
@@ -4830,7 +5149,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Escape the Dreamstalker",
@@ -4863,7 +5184,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Ship Self Destruct Button",
@@ -4890,7 +5213,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Ernesto Takeover",
@@ -4921,7 +5246,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Dancin' Wilds Ventures",
@@ -4951,7 +5278,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Stranger Spin Gravity",
@@ -4981,7 +5310,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Discord Proximity Chat",
@@ -5013,7 +5344,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Slate's Shipyard for Outer Wilds Online",
@@ -5039,7 +5372,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "i let the voices on the discord server make bad ideas for planets",
@@ -5070,7 +5405,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Super Wild Galaxy",
@@ -5102,7 +5439,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Trajectory Prediction",
@@ -5133,7 +5472,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "N Body Chaos",
@@ -5164,7 +5505,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Shared Ship Log",
@@ -5194,7 +5537,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Kerbal Space Ventures",
@@ -5220,7 +5565,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Solar Systems I Made as a Kid",
@@ -5251,7 +5598,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Owlystem",
@@ -5282,7 +5631,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Nomai Text Printer",
@@ -5311,7 +5662,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "The Final Shortcut",
@@ -5339,7 +5692,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "How Did This Happen?",
@@ -5369,7 +5724,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "I Don't Like Sand",
@@ -5397,7 +5754,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Outer Wilds en Andalûh",
@@ -5425,7 +5784,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Outer Pictures",
@@ -5455,7 +5816,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "SpeedTools",
@@ -5486,7 +5849,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Break On Demand",
@@ -5513,7 +5878,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Funny Christmas",
@@ -5542,7 +5909,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Enable Meditation",
@@ -5573,7 +5942,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "No Dot Mod",
@@ -5604,7 +5975,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Stranger Night Cycle",
@@ -5633,7 +6006,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "KSP",
@@ -5664,7 +6039,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "AUGH Jetpack Boost",
@@ -5692,7 +6069,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "OWFixPluginTypesSerialization",
@@ -5722,7 +6101,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Funny Noises",
@@ -5750,7 +6131,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Proud Hearthians",
@@ -5780,7 +6163,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Volumetric Lights",
@@ -5805,7 +6190,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "The Spiral System",
@@ -5838,7 +6225,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Broken Balance",
@@ -5869,7 +6258,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "The Outsider",
@@ -5900,7 +6291,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Daylight Savings",
@@ -5932,7 +6325,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Brightdusk",
@@ -5964,7 +6359,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Time Dialator",
@@ -5997,7 +6394,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "OW Ventures Scavenger Hunt",
@@ -6030,7 +6429,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Arcanum Adrift",
@@ -6063,7 +6464,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "The Machine",
@@ -6096,7 +6499,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Divergence",
@@ -6128,7 +6533,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Archipelago",
@@ -6161,7 +6568,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Intervention",
@@ -6195,7 +6604,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "March of gears",
@@ -6224,7 +6635,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Celestial Orrery",
@@ -6256,7 +6669,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Evacuation",
@@ -6289,7 +6704,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Celestial Leeway",
@@ -6321,7 +6738,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "KSP: Outer Planets Mod",
@@ -6352,7 +6771,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Deepian Moon",
@@ -6381,7 +6802,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Outer Relics",
@@ -6411,7 +6834,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Real Solar System - Outer Relics Support and Examples",
@@ -6441,7 +6866,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Photosensitivity Fixes",
@@ -6472,7 +6899,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Hatchling Icarus",
@@ -6503,7 +6932,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Warp Window & VanishVolume Tweaks",
@@ -6530,7 +6961,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Hug Mod",
@@ -6559,7 +6992,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     }
   ],
   "alphaReleases": [
@@ -6593,7 +7028,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "OWAML",
@@ -6619,7 +7056,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "CAMOWA",
@@ -6648,7 +7087,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Alpha Fixes",
@@ -6678,7 +7119,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Navinha",
@@ -6708,7 +7151,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Free Cam Mod",
@@ -6736,7 +7181,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Probe Grapple",
@@ -6769,7 +7216,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Cooler Bottom Cams",
@@ -6797,7 +7246,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Enhanced Mallows",
@@ -6825,7 +7276,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Automatic Launch Codes",
@@ -6853,7 +7306,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "No Probe Launch Window",
@@ -6881,7 +7336,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     },
     {
       "name": "Runtime Unity Editor",
@@ -6911,7 +7368,9 @@
       "viewCount": 0,
       "weeklyViewCount": 0,
       "installCount": 0,
-      "weeklyInstallCount": 0
+      "weeklyInstallCount": 0,
+      "latestPrereleaseDescription": "",
+      "latestReleaseDescription": ""
     }
   ]
 }
